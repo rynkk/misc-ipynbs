@@ -1,0 +1,6 @@
+name: misc
+dependencies:
+  - numpy
+  - numba
+  - dask
+  - matplotlib
